@@ -1,4 +1,6 @@
-The datasets used for training can be downloaded in the following links:
+Due to their large size, the datasets used for training can be downloaded from the following links:
+Sentiment140.csv:
 Sentiment140 dataset with 1.6 million tweets. (n.d.). Kaggle. Retrieved June 1, 2022, from https://www.kaggle.com/datasets/kazanova/sentiment140 
+TweetsEmotions.csv:
 Twitter Emotion Analysis. (n.d.). Kaggle. Retrieved June 1, 2022, from https://www.kaggle.com/code/shainy/twitter-emotion-analysis/data 
 
